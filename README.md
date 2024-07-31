@@ -1,4 +1,4 @@
-### 👋 Hello there, I’m @Ruslan2601
+### 👋 Hello there, I’m Khabubillin Ruslan
 
 - :triumph: Java Developer
 - 👀 I’m interested in Backend Development and Machine Learning
