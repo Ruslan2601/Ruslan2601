@@ -1,6 +1,5 @@
 ### 👋 Hello there, I’m @Ruslan2601
 
-- :sunglasses: Bachelor of Computer Science and Applied Mathematics (MPEI '22)
 - :triumph: Java Developer
 - 👀 I’m interested in Backend Development and Machine Learning
 - :ok_hand: Also I have some experience in SQL, C# and HTML/CSS coding
