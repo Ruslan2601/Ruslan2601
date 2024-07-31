@@ -2,7 +2,7 @@
 
 - :triumph: Java Developer
 - 👀 I’m interested in Backend Development and Machine Learning
-- :ok_hand: Also I have some experience in SQL, C# and HTML/CSS coding
+- :ok_hand: Also I have some experience in C# and HTML/CSS coding
 - 🌱 I’m currently learning everything about backend development on Java
 - 🌃 Located in Moscow, Russia
 - ⚡ Fun fact: One of my hobbies is board games
